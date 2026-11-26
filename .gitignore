@@ -1,0 +1,39 @@
+# Python
+__pycache__/
+*.py[c]
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.venv/
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Outputs / binaries (do not commit large generated files)
+*.wav
+*.mid
+*.sf2
+*.png
+*.jpg
+*.jpeg
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs / reports
+*.log
+*.json
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Cache
+.cache/
+.ipynb_checkpoints/
